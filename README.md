@@ -1,6 +1,6 @@
 # PhotonDemoGame
 
-[![Alt text](https://drive.google.com/open?id=1-FIfsiixfWvXRVazHecsTeAXXr2geKDs)
+[![Alt text](https://img.youtube.com/vi/I9DEk7lA5xM/0.jpg)](https://drive.google.com/open?id=1-FIfsiixfWvXRVazHecsTeAXXr2geKDs)
 
 
 ### Simple sample project with Photon Networking
