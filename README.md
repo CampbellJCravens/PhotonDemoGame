@@ -3,9 +3,9 @@
 [![Alt text](https://drive.google.com/open?id=1-FIfsiixfWvXRVazHecsTeAXXr2geKDs)
 
 
-### Description of Project
+### Simple sample project with Photon Networking
 * This github repository is just the scripts, the unity game scenes are only saved locally at the moment.
-* Sample project with three methods for users to join lobbies with each other. 
+* Three different ways for users to join a match with each other
 * QuickStartLobbies, DelayedStartLobbies and custom created lobbies to post on a server lobby list
 * DelayedStartLobby can join up to three devices into a game lobby as shown by the video above.
 * The first device that joins is the MasterClient that hosts the fighting robots
