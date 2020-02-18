@@ -1,6 +1,6 @@
 # PhotonDemoGame
 
-[![Alt text](https://img.youtube.com/vi/I9DEk7lA5xM/0.jpg)](https://drive.google.com/open?id=1-FIfsiixfWvXRVazHecsTeAXXr2geKDs)
+[![Alt text](https://firebasestorage.googleapis.com/v0/b/auggie-dev.appspot.com/o/cambi_robot_fight%2FScreen%20Shot%202020-02-17%20at%204.47.01%20PM.png?alt=media&token=71c547da-e7b8-4820-ac8a-8c53c99a52e6)](https://drive.google.com/open?id=1-FIfsiixfWvXRVazHecsTeAXXr2geKDs)
 
 
 ### Simple sample project with Photon Networking
