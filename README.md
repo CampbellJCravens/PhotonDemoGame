@@ -15,4 +15,4 @@
 
 ### Credits
 * I used the Male Fighter Mecanim Animation Pack from the Unity Asset Store to have access to sample avatars and fighting animations to build this project. 
-https://assetstore.unity.com/packages/3d/animations/male-fighter-mecanim-animation-pack-23661#reviews
+* https://assetstore.unity.com/packages/3d/animations/male-fighter-mecanim-animation-pack-23661#reviews
